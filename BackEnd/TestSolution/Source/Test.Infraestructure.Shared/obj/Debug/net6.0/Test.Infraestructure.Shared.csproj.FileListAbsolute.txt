@@ -1,0 +1,17 @@
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\bin\Debug\net6.0\Test.Infraestructure.Shared.deps.json
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\bin\Debug\net6.0\Test.Infraestructure.Shared.dll
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\bin\Debug\net6.0\Test.Infraestructure.Shared.pdb
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\bin\Debug\net6.0\Test.Application.dll
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\bin\Debug\net6.0\Test.Domain.dll
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\bin\Debug\net6.0\Test.Application.pdb
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\bin\Debug\net6.0\Test.Domain.pdb
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\obj\Debug\net6.0\Test.Infraestructure.Shared.csproj.AssemblyReference.cache
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\obj\Debug\net6.0\Test.Infraestructure.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\obj\Debug\net6.0\Test.Infraestructure.Shared.AssemblyInfoInputs.cache
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\obj\Debug\net6.0\Test.Infraestructure.Shared.AssemblyInfo.cs
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\obj\Debug\net6.0\Test.Infraestructure.Shared.csproj.CoreCompileInputs.cache
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\obj\Debug\net6.0\Test.Inf.BE1CAE8E.Up2Date
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\obj\Debug\net6.0\Test.Infraestructure.Shared.dll
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\obj\Debug\net6.0\refint\Test.Infraestructure.Shared.dll
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\obj\Debug\net6.0\Test.Infraestructure.Shared.pdb
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Shared\obj\Debug\net6.0\ref\Test.Infraestructure.Shared.dll

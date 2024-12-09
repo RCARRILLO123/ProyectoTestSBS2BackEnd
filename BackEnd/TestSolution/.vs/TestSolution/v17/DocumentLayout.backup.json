@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FuenteTest\\BackEnd\\TestSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|c:\\fuentetest\\backend\\testsolution\\test.webapi\\controllers\\v1\\entidadgubernamentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|solutionrelative:test.webapi\\controllers\\v1\\entidadgubernamentalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|c:\\fuentetest\\backend\\testsolution\\test.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|solutionrelative:test.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.application\\features\\usuario\\commands\\authenticatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|solutionrelative:source\\test.application\\features\\usuario\\commands\\authenticatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|c:\\fuentetest\\backend\\testsolution\\test.webapi\\controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|solutionrelative:test.webapi\\controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.application\\test.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|solutionrelative:source\\test.application\\test.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A3F366-7B3F-48CB-A84B-F55E00093ACB}|Source\\Test.Infraestructure.Persistence\\Test.Infraestructure.Persistence.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.infraestructure.persistence\\test.infraestructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5A3F366-7B3F-48CB-A84B-F55E00093ACB}|Source\\Test.Infraestructure.Persistence\\Test.Infraestructure.Persistence.csproj|solutionrelative:source\\test.infraestructure.persistence\\test.infraestructure.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81187DF-BDE8-45BF-8917-06D359B5EA09}|Source\\Test.Domain\\Test.Domain.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81187DF-BDE8-45BF-8917-06D359B5EA09}|Source\\Test.Domain\\Test.Domain.csproj|solutionrelative:source\\test.domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|c:\\fuentetest\\backend\\testsolution\\test.webapi\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|solutionrelative:test.webapi\\middlewares\\errorhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.application\\features\\entidadgubernamental\\commands\\updateentidadgubernamentalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|solutionrelative:source\\test.application\\features\\entidadgubernamental\\commands\\updateentidadgubernamentalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A3F366-7B3F-48CB-A84B-F55E00093ACB}|Source\\Test.Infraestructure.Persistence\\Test.Infraestructure.Persistence.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.infraestructure.persistence\\repositories\\entidadgubernamentalrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A3F366-7B3F-48CB-A84B-F55E00093ACB}|Source\\Test.Infraestructure.Persistence\\Test.Infraestructure.Persistence.csproj|solutionrelative:source\\test.infraestructure.persistence\\repositories\\entidadgubernamentalrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.application\\features\\entidadgubernamental\\queries\\getentidadgubernamentalallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|solutionrelative:source\\test.application\\features\\entidadgubernamental\\queries\\getentidadgubernamentalallquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.application\\mappings\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|solutionrelative:source\\test.application\\mappings\\generalprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.application\\features\\entidadgubernamental\\commands\\deleteentidadgubernamentalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|solutionrelative:source\\test.application\\features\\entidadgubernamental\\commands\\deleteentidadgubernamentalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.application\\features\\entidadgubernamental\\commands\\createentidadgubernamentalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|solutionrelative:source\\test.application\\features\\entidadgubernamental\\commands\\createentidadgubernamentalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|c:\\fuentetest\\backend\\testsolution\\test.webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|solutionrelative:test.webapi\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.application\\interfaces\\repositories\\ientidadgubernamentalrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60C1F4DB-95D5-4D33-A9C6-C002F8B7ED6A}|Source\\Test.Application\\Test.Application.csproj|solutionrelative:source\\test.application\\interfaces\\repositories\\ientidadgubernamentalrepositoryasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|c:\\fuentetest\\backend\\testsolution\\test.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|solutionrelative:test.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|c:\\fuentetest\\backend\\testsolution\\test.webapi\\test.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|solutionrelative:test.webapi\\test.webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|c:\\fuentetest\\backend\\testsolution\\test.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|solutionrelative:test.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEB9032-95EC-42AE-8872-2354B42E8B87}|Source\\Test.Infraestructure.Shared\\Test.Infraestructure.Shared.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.infraestructure.shared\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEB9032-95EC-42AE-8872-2354B42E8B87}|Source\\Test.Infraestructure.Shared\\Test.Infraestructure.Shared.csproj|solutionrelative:source\\test.infraestructure.shared\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|c:\\fuentetest\\backend\\testsolution\\test.webapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|solutionrelative:test.webapi\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|c:\\fuentetest\\backend\\testsolution\\test.webapi\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F0DF267-120B-4691-8461-E3583B09935C}|Test.WebApi\\Test.WebApi.csproj|solutionrelative:test.webapi\\extensions\\appextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEB9032-95EC-42AE-8872-2354B42E8B87}|Source\\Test.Infraestructure.Shared\\Test.Infraestructure.Shared.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.infraestructure.shared\\security\\iphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEB9032-95EC-42AE-8872-2354B42E8B87}|Source\\Test.Infraestructure.Shared\\Test.Infraestructure.Shared.csproj|solutionrelative:source\\test.infraestructure.shared\\security\\iphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCEB9032-95EC-42AE-8872-2354B42E8B87}|Source\\Test.Infraestructure.Shared\\Test.Infraestructure.Shared.csproj|c:\\fuentetest\\backend\\testsolution\\source\\test.infraestructure.shared\\security\\authenticationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCEB9032-95EC-42AE-8872-2354B42E8B87}|Source\\Test.Infraestructure.Shared\\Test.Infraestructure.Shared.csproj|solutionrelative:source\\test.infraestructure.shared\\security\\authenticationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthenticateCommand.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Features\\Usuario\\Commands\\AuthenticateCommand.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Application\\Features\\Usuario\\Commands\\AuthenticateCommand.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Features\\Usuario\\Commands\\AuthenticateCommand.cs",
+              "RelativeToolTip": "Source\\Test.Application\\Features\\Usuario\\Commands\\AuthenticateCommand.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAMwEgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:54:23.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test.Application",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Test.Application.csproj",
+              "RelativeDocumentMoniker": "Source\\Test.Application\\Test.Application.csproj",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Test.Application.csproj",
+              "RelativeToolTip": "Source\\Test.Application\\Test.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T09:00:36.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Controllers\\v1\\AccountController.cs",
+              "RelativeDocumentMoniker": "Test.WebApi\\Controllers\\v1\\AccountController.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Controllers\\v1\\AccountController.cs",
+              "RelativeToolTip": "Test.WebApi\\Controllers\\v1\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:51:15.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Test.WebApi\\appsettings.json",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\appsettings.json",
+              "RelativeToolTip": "Test.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T21:22:06.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntidadGubernamentalController.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Controllers\\v1\\EntidadGubernamentalController.cs",
+              "RelativeDocumentMoniker": "Test.WebApi\\Controllers\\v1\\EntidadGubernamentalController.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Controllers\\v1\\EntidadGubernamentalController.cs",
+              "RelativeToolTip": "Test.WebApi\\Controllers\\v1\\EntidadGubernamentalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:49:43.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test.Infraestructure.Persistence",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Infraestructure.Persistence\\Test.Infraestructure.Persistence.csproj",
+              "RelativeDocumentMoniker": "Source\\Test.Infraestructure.Persistence\\Test.Infraestructure.Persistence.csproj",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Infraestructure.Persistence\\Test.Infraestructure.Persistence.csproj",
+              "RelativeToolTip": "Source\\Test.Infraestructure.Persistence\\Test.Infraestructure.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-09T09:08:15.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JWTSettings.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Domain\\Settings\\JWTSettings.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Domain\\Settings\\JWTSettings.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Domain\\Settings\\JWTSettings.cs",
+              "RelativeToolTip": "Source\\Test.Domain\\Settings\\JWTSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:59:35.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetEntidadGubernamentalAllQuery.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Features\\EntidadGubernamental\\Queries\\GetEntidadGubernamentalAllQuery.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Application\\Features\\EntidadGubernamental\\Queries\\GetEntidadGubernamentalAllQuery.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Features\\EntidadGubernamental\\Queries\\GetEntidadGubernamentalAllQuery.cs",
+              "RelativeToolTip": "Source\\Test.Application\\Features\\EntidadGubernamental\\Queries\\GetEntidadGubernamentalAllQuery.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwB4AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:33:40.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EntidadGubernamentalRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Infraestructure.Persistence\\Repositories\\EntidadGubernamentalRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Infraestructure.Persistence\\Repositories\\EntidadGubernamentalRepositoryAsync.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Infraestructure.Persistence\\Repositories\\EntidadGubernamentalRepositoryAsync.cs",
+              "RelativeToolTip": "Source\\Test.Infraestructure.Persistence\\Repositories\\EntidadGubernamentalRepositoryAsync.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIAwwDsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T01:53:20.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Test.WebApi\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "Test.WebApi\\Middlewares\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:22:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateEntidadGubernamentalCommand.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\UpdateEntidadGubernamentalCommand.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\UpdateEntidadGubernamentalCommand.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\UpdateEntidadGubernamentalCommand.cs",
+              "RelativeToolTip": "Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\UpdateEntidadGubernamentalCommand.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:32:34.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GeneralProfile.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Mappings\\GeneralProfile.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Application\\Mappings\\GeneralProfile.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Mappings\\GeneralProfile.cs",
+              "RelativeToolTip": "Source\\Test.Application\\Mappings\\GeneralProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:46:43.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateEntidadGubernamentalCommand.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\CreateEntidadGubernamentalCommand.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\CreateEntidadGubernamentalCommand.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\CreateEntidadGubernamentalCommand.cs",
+              "RelativeToolTip": "Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\CreateEntidadGubernamentalCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:32:48.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DeleteEntidadGubernamentalCommand.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\DeleteEntidadGubernamentalCommand.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\DeleteEntidadGubernamentalCommand.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\DeleteEntidadGubernamentalCommand.cs",
+              "RelativeToolTip": "Source\\Test.Application\\Features\\EntidadGubernamental\\Commands\\DeleteEntidadGubernamentalCommand.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:32:50.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseApiController.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Controllers\\BaseApiController.cs",
+              "RelativeDocumentMoniker": "Test.WebApi\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Controllers\\BaseApiController.cs",
+              "RelativeToolTip": "Test.WebApi\\Controllers\\BaseApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:19:08.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEntidadGubernamentalRepositoryAsync.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Interfaces\\Repositories\\IEntidadGubernamentalRepositoryAsync.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Application\\Interfaces\\Repositories\\IEntidadGubernamentalRepositoryAsync.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Application\\Interfaces\\Repositories\\IEntidadGubernamentalRepositoryAsync.cs",
+              "RelativeToolTip": "Source\\Test.Application\\Interfaces\\Repositories\\IEntidadGubernamentalRepositoryAsync.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:31:35.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Test.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Test.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T09:31:58.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Test.WebApi\\Program.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Program.cs",
+              "RelativeToolTip": "Test.WebApi\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:15:57.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Test.WebApi",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Test.WebApi.csproj",
+              "RelativeDocumentMoniker": "Test.WebApi\\Test.WebApi.csproj",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Test.WebApi.csproj",
+              "RelativeToolTip": "Test.WebApi\\Test.WebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T09:22:54.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Infraestructure.Shared\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Infraestructure.Shared\\ServiceRegistration.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Infraestructure.Shared\\ServiceRegistration.cs",
+              "RelativeToolTip": "Source\\Test.Infraestructure.Shared\\ServiceRegistration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAApwBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:15:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Test.WebApi\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Test.WebApi\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:20:10.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppExtensions.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Extensions\\AppExtensions.cs",
+              "RelativeDocumentMoniker": "Test.WebApi\\Extensions\\AppExtensions.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Test.WebApi\\Extensions\\AppExtensions.cs",
+              "RelativeToolTip": "Test.WebApi\\Extensions\\AppExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:19:59.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IpHelper.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Infraestructure.Shared\\Security\\IpHelper.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Infraestructure.Shared\\Security\\IpHelper.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Infraestructure.Shared\\Security\\IpHelper.cs",
+              "RelativeToolTip": "Source\\Test.Infraestructure.Shared\\Security\\IpHelper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:15:24.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthenticationHelper.cs",
+              "DocumentMoniker": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Infraestructure.Shared\\Security\\AuthenticationHelper.cs",
+              "RelativeDocumentMoniker": "Source\\Test.Infraestructure.Shared\\Security\\AuthenticationHelper.cs",
+              "ToolTip": "C:\\FuenteTest\\BackEnd\\TestSolution\\Source\\Test.Infraestructure.Shared\\Security\\AuthenticationHelper.cs",
+              "RelativeToolTip": "Source\\Test.Infraestructure.Shared\\Security\\AuthenticationHelper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:15:22.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

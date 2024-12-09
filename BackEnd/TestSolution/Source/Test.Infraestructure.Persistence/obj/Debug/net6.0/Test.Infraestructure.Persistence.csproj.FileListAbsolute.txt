@@ -1,0 +1,17 @@
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\bin\Debug\net6.0\Test.Infraestructure.Persistence.deps.json
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\bin\Debug\net6.0\Test.Infraestructure.Persistence.dll
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\bin\Debug\net6.0\Test.Infraestructure.Persistence.pdb
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\bin\Debug\net6.0\Test.Application.dll
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\bin\Debug\net6.0\Test.Domain.dll
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\bin\Debug\net6.0\Test.Application.pdb
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\bin\Debug\net6.0\Test.Domain.pdb
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\obj\Debug\net6.0\Test.Infraestructure.Persistence.csproj.AssemblyReference.cache
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\obj\Debug\net6.0\Test.Infraestructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\obj\Debug\net6.0\Test.Infraestructure.Persistence.AssemblyInfoInputs.cache
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\obj\Debug\net6.0\Test.Infraestructure.Persistence.AssemblyInfo.cs
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\obj\Debug\net6.0\Test.Infraestructure.Persistence.csproj.CoreCompileInputs.cache
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\obj\Debug\net6.0\Test.Inf.A4E6DA88.Up2Date
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\obj\Debug\net6.0\Test.Infraestructure.Persistence.dll
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\obj\Debug\net6.0\refint\Test.Infraestructure.Persistence.dll
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\obj\Debug\net6.0\Test.Infraestructure.Persistence.pdb
+C:\FuenteTest\BackEnd\TestSolution\Source\Test.Infraestructure.Persistence\obj\Debug\net6.0\ref\Test.Infraestructure.Persistence.dll

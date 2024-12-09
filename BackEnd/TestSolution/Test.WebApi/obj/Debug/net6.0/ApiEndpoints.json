@@ -1,0 +1,107 @@
+[
+  {
+    "ContainingType": "Test.WebApi.Controllers.v1.AccountController",
+    "Method": "Auth",
+    "RelativePath": "api/v{version}/Account",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Test.Application.Features.Usuario.Commands.AuthenticateCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Test.WebApi.Controllers.v1.EntidadGubernamentalController",
+    "Method": "Get",
+    "RelativePath": "api/v{version}/EntidadGubernamental",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "DescripcionEntidad",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Test.WebApi.Controllers.v1.EntidadGubernamentalController",
+    "Method": "Post",
+    "RelativePath": "api/v{version}/EntidadGubernamental",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Test.Application.Features.EntidadGubernamental.Commands.CreateEntidadGubernamentalCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Test.WebApi.Controllers.v1.EntidadGubernamentalController",
+    "Method": "Delete",
+    "RelativePath": "api/v{version}/EntidadGubernamental/Delete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CodigoEntidad",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Test.WebApi.Controllers.v1.EntidadGubernamentalController",
+    "Method": "Update",
+    "RelativePath": "api/v{version}/EntidadGubernamental/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "Test.Application.Features.EntidadGubernamental.Commands.UpdateEntidadGubernamentalCommand",
+        "IsRequired": true
+      },
+      {
+        "Name": "version",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

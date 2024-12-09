@@ -1,0 +1,2 @@
+1.- Primer paso ejecutar el archivo 1.CREATE_TABLE
+2.-Segundo paso ejecutar el archivo 2.CREATE_STORED_PROCEDURE
